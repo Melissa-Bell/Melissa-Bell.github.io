@@ -1,6 +1,6 @@
 ---
 title: Melissa Bell Personal Website
-description: This is my personal website for analytics work I have done in my Competing Through Business Analytics Course at the College of William and Mary.
+description: This is my personal website for analytics work I have done in my Competing Through Business Analytics Course at the College of William and Mary.  
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
