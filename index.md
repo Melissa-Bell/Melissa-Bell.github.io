@@ -6,3 +6,6 @@ description: This is my personal website for analytics work I have done in my Co
 This is content which I have submitted as assignments to my CTBA course:
 
 -[Time Series Decomposition (html)](/TimeSeries/index.md)
+
+Link to a repository:
+- [Repository](https://github.com/Melissa-Bell/CTBA)
